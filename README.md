@@ -1,4 +1,4 @@
-# 🌟 Positional Encoding Project
+# 🌟 Positional Encoding
 
 In this project, you will learn how to implement the positional encoding of words in the transformer.
 
